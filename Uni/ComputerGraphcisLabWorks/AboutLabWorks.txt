@@ -1,0 +1,10 @@
+lab01- SDL lib
+lab02- C++ classes for handling vecs
+lab03- vec and mat processing for graphics
+lab04- transformations building on earlier labs
+lab05- transformations on 2d objects using earlier
+lab06and07 - line clipping: Cyrus-Beck, Cohen-Sutherland
+lab08- bresenham, line, rasterization
+lab09- 3d to 2d mapping, screen - pixel localization
+lab10- zbuffer, barycentric coords
+

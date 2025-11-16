@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Jun  4 22:26:59 2025
+# Process ID         : 72832
+# Current directory  : D:/faculta/CAscurt/pipelineFolder/mipsfinalPC/mipsfinalPC.runs/impl_1
+# Command line       : vivado.exe -log main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source main.tcl -notrace
+# Log file           : D:/faculta/CAscurt/pipelineFolder/mipsfinalPC/mipsfinalPC.runs/impl_1/main.vdi
+# Journal file       : D:/faculta/CAscurt/pipelineFolder/mipsfinalPC/mipsfinalPC.runs/impl_1\vivado.jou
+# Running On         : Tudor
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 7745HX with Radeon Graphics        
+# CPU Frequency      : 3593 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33488 MB
+# Swap memory        : 17179 MB
+# Total Virtual      : 50668 MB
+# Available Virtual  : 27754 MB
+#-----------------------------------------------------------
+source main.tcl -notrace
