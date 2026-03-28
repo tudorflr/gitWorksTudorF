@@ -1,0 +1,38 @@
+{
+  "code": "#include <iostream>\nusing namespace std;\n\nint main() {\n    int x;\n    cin >> x;\n    cout << x * 3 << endl;\n    return 0;\n}",
+  "tests": [
+    {
+      "name": "basic_test",
+      "stdin": "13\n",
+      "expected_stdout": "39\n"
+    },
+    {
+      "name": "zero_test",
+      "stdin": "0\n",
+      "expected_stdout": "0\n"
+    }
+  ]
+}
+
+
+
+{
+  "code": "x = int(input())\nprint(x * 3)",
+  "tests": [
+    {
+      "name": "basic_test",
+      "stdin": "13\n",
+      "expected_stdout": "39\n"
+    },
+    {
+      "name": "zero_test",
+      "stdin": "0\n",
+      "expected_stdout": "0\n"
+    },
+    {
+      "name": "negative_test",
+      "stdin": "-2\n",
+      "expected_stdout": "-6\n"
+    }
+  ]
+}

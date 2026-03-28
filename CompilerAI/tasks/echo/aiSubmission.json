@@ -1,0 +1,10 @@
+{
+  "code": "import java.util.*;\n\npublic class Main {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n        int x = sc.nextInt();\n        System.out.println(x * 3);\n    }\n}",
+  "tests": [
+    {
+      "name": "basic",
+      "stdin": "13\n",
+      "expected_stdout": "39\n"
+    }
+  ]
+}

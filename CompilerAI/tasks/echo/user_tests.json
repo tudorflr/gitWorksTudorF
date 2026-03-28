@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "basic_test",
+      "stdin": "13\n",
+      "expected_stdout": "39\n"
+    },
+    {
+      "name": "zero_test",
+      "stdin": "0\n",
+      "expected_stdout": "0\n"
+    }
+  ]
+}
