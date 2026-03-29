@@ -32,6 +32,7 @@ Collection of academic work covering multiple areas:
 - Operating systems (Linux)
 - Computer architecture (VHDL, MIPS CPU)
 - Java OOP systems with database interaction
+- Other lab works/ mini projects, built to learn and understand new concepts in different fields
 
 [View projects](./Uni)
 
