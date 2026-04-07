@@ -16,6 +16,19 @@ System that generates code, executes it, validates outputs, and iteratively impr
 
 ---
 
+### Cache Memory Simulator
+Simulation tool for analyzing cache behavior under different configurations and policies.
+
+- Implements set-associative cache with configurable size, block size, and associativity
+- Supports multiple replacement policies (LRU, FIFO, Random)
+- Simulates memory access patterns and tracks hit/miss statistics
+- Includes write policies (write-through / write-back with dirty bit handling)
+- Designed with modular architecture (CacheLine, Set, Simulator, Statistics)
+
+[View project](./CacheSimulator)
+
+---
+
 ### Minesweeper but Smooth (iOS App)
 - Released iOS game focused on smooth interaction and responsive UI
 - Includes solvability logic (no-guess mode) and configurable gameplay
